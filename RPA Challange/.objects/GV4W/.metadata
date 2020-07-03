@@ -1,0 +1,11 @@
+﻿{
+  "Id": "GV4W8lvaoECIZwimYHM9mA",
+  "Reference": "EEJilUMKg0uuEhFG2sSkRA/GV4W8lvaoECIZwimYHM9mA",
+  "Name": "RPAChallenge",
+  "Type": "App",
+  "Created": "2020-07-03T12:08:32.1558071Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=20.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2020-07-03T12:08:32.1558071Z"
+}

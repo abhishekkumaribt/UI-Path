@@ -1,0 +1,12 @@
+﻿{
+  "Id": "V0Sxh1BpCEuz5NUVYYAYaw",
+  "Reference": "EEJilUMKg0uuEhFG2sSkRA/V0Sxh1BpCEuz5NUVYYAYaw",
+  "ParentRef": "EEJilUMKg0uuEhFG2sSkRA/okTVJLlMOU2WYOivvnoYkA",
+  "Name": "Fill Data",
+  "Type": "Screen",
+  "Created": "2020-07-03T12:37:31.171554Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=20.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2020-07-03T12:37:31.171554Z"
+}
